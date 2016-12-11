@@ -64,5 +64,5 @@ int main() {
 
 	printf("%d",h+m);
 	
-	return 0;
+	return 1;
 }
